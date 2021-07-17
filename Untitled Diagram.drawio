@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2021-07-17T06:33:11.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ZmZtIRvDiLgfiO9CGnbP" version="14.8.5" type="github"><diagram id="XzJQMEiBrGkHQVmZ6QuN" name="Page-1">7VrbcqM4EP0aPW6KO9IjYDz7MDO1tdmq2XkkRmNTi00W41z267dbEhiQnDiXsRlXXClHtO59Tre6hYmbrB8+1dnt6kuV85I4Vv5A3BlxHN9j8I2CRynwQiVY1kUuRfZecF38x5XQUtJdkfPtoGFTVWVT3A6Fi2qz4YtmIMvqurofNvtRlcNZb7Ml1wTXi6zUpd+KvFlJKXXCvfx3XixX7cx2oPa3ztrGaifbVZZX9z2RmxI3qauqkaX1Q8JL1F2rF9lvfqC2W1jNN80xHfzvzZ/h13W2+J7b2debL6vPd81vapS7rNypDZPUJ9GcxDEWmEXojKQUJXSm9tE8tsqBLd1iMa8Wu7VYRny/Khp+fZstUH4PlADZqlmX8GRD8ababXKef75pBWp+Xjf84eDG7E5dQDNerXlTP0IT1cFTClYMs1uF3+/xYkq06kHVdssUQ5bdwHslQkHp8QU6dQw6DUhsEyqUSyMSUaHcmETWRHXqOhNTqmtUKmUkTkkakhiUGqCEzQibT1SpgTUxpXoGpUpbDwRToQxugBEWoSeAKhYSOkd9g4R6ojGURS+EwjH4jBR8SUJoIsBJRa8AR8YBQQKz+CT1EEAa90Z2CLUQTKwCSBNRoNDsSnyIE/y7Q88JuAQl/r+pobQUEsMeBFVgRKRKTBjrzeRjS1wE+L2UxMOq8WbGqxG9PEJDVBOMD7Mo/8mwFxh9ZJtXGM9FrwDXAyOglmeoILXzBCWRo3YBlIa/vVKe9cy1pC88WM9z/f19sGPpzLYDA7Vt62dxOzA7jIQw4SdoShgVWk8ELzoHHaIElS3owNIeHQL8pnPlu9HxvIXbkkQAvmyTIiNU4/R1JDduRk6p7+qJzfhYwGVRZC8WgNs2Gj+OnAxdgL5PH+dC0wjQ0CLdG5+anOPDbALsDI/yvMJrgYeVQCA0fa/lIyhYlaIvkmcfNJOsioMn2QnDRqJKTmp3vuVTccc3V8fwL0ADosI+kCWpabke+kHahZLpgJHoiF21OLSGFy23Hadb4l+rdt39ZZ+ZeeMTfwLMo+aI3xaE66LTaUf8dKhVPzhzHMWOsmYfHScIDXYSoPGhRAPgrUcMNHZJ7IoBoWwfY9l9OvgqNBovS19NP7M5FAJ2KuiffKOASt9VgHmSDLEgImL07GbNhvzzDHH8ia26vS4ZU1Ae3yFCgyeCQCSaqlm7wcTs2jZdj4CNee0RLA1bZEFRoOjN7B519bO4A6UzLlklT/BQNGai4LVVzIDg607L9pT/ZjwsdU+g77WzYCocy6znu1606V8hbAynZ+amuyVBP9oqF319iN+xHv5Mw8wDb2pmbrpcMkXjY8p24W1nsJ2hiYyOiUMw9kXOqaNz4FpAGhXeaM1NOZ2PFy7K8Efr0Q3/iRV266EiuZOpnKVyQ7Bb5qnuhkvKk8fR/vRM0XDBMFYT3+QRvoOAp0WZbbfFwqQZnmuvIJ7VS2/fvmHbrazmZdZARjcY3qQKNcMfVQETH7rV6c7ndoRttasXXHXqv3oYjUOtZwZqsnrJG20gAUy36zdgZQjQn8BqU234ECiAo378W9FdPHzHh6vQb59nD/3a2aN6OhZhx5IqeGoTl8AEb3Smuv5pmeAY4uRpMeFcCI8vyV4Nsfbq6NQQG4L2D4hNt1Gvhlh7kXVqiA1h8AfE2KL9dcU4tH4pwiG98kNr//HPen47hgD9A295fr4T4K4/RLwNb8+FuOHV9Afiwve674R44A4Rd84LuJ5O2RrikEA2Q5i3TV39w5OqrOo9DX4UZTkSZWWx3MDjAkDkII8xHS0WWRmpinWR5ziNMZkdprtqoe/4utx19XTWM1DIsQ6z5W0/WdLfCun2djHaH70+cum5ta+np+7lal9LNM5N/nb+nvq9C1b/6CVLd8t9NvXr+Zp/uerXcrCzs1/PpYILVv/45P157IfH/Y+7ZZi0/4W8m/4P</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-17T06:33:42.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="_jpJ-loj_D_W01FVRS1C" version="14.8.5" type="github">
+  <diagram id="XzJQMEiBrGkHQVmZ6QuN" name="Page-1">
+    <mxGraphModel dx="784" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-1" value="寻名词" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-2" value="求动因" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-3" value="找约束" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-4" value="识别隐藏的角色名词，构成故事的”作为......&quot;&lt;br&gt;识别所给的内容的名词作为备选对象&lt;br&gt;过滤非“领域”名词" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="200" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-6" value="挖掘需求真实的意图，构成故事的“以便于......&quot;&lt;br&gt;识别需求的真实意图，弥补遗漏的故事场景" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="200" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-7" value="识别执行的允许条件，构成验证”Given.......&quot;&lt;br&gt;明确执行之后的结果，构成验证的&quot;Then......&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="200" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-8" value="填动词" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-9" value="识别可执行性动词，构成故事的“想要......&quot;&lt;br&gt;填充动词构成动名词，可以作为故事标题" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="420" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-10" value="补状语" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-11" value="甄别触发事件，补充（时间）状语，构成验证的”When......&quot;&lt;br&gt;甄别可能性事件，补充故事场景" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="420" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-12" value="觅关系" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-13" value="识别故事之间的依赖关系&lt;br&gt;追溯需求和故事验证之间的关联搞演习" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="420" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-16" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="360" as="sourcePoint" />
+            <mxPoint x="800" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-19" value="" style="endArrow=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="5YtR7NmacYd1aNbMhLvt-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="360" as="sourcePoint" />
+            <mxPoint x="470" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-20" value="" style="endArrow=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="360" as="sourcePoint" />
+            <mxPoint x="320" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-21" value="" style="endArrow=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="360" as="sourcePoint" />
+            <mxPoint x="600" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-22" value="" style="endArrow=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79" y="560" as="sourcePoint" />
+            <mxPoint x="78.57000000000005" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-23" value="" style="endArrow=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359" y="560" as="sourcePoint" />
+            <mxPoint x="358.57000000000016" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-24" value="" style="endArrow=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="639" y="560" as="sourcePoint" />
+            <mxPoint x="638.5700000000002" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-26" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-28" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-29" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-30" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-31" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5YtR7NmacYd1aNbMhLvt-32" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="640" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
